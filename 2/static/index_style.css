@@ -1,0 +1,13 @@
+body{
+}
+#fullpagebox{
+  width:100%;
+  height:100vh;
+  text-align: center;
+  box-sizing:border-box;
+  border:rgb(0, 255, 98) 10px solid;
+}
+#fpcont{
+  position:relative;
+  top:50%;
+}

@@ -1,0 +1,20 @@
+header{
+    /*height: 30px;*/
+}
+/*********************************************/
+body{
+    height: 100%;
+    background-color: #111111;
+}
+.ketv{
+    position:absolute;
+}
+#ketv0{
+    width:0px;
+    height:0px;
+    background-color: #33113300;
+    text-align: center;
+}
+.demo-0026-tx-1 {
+    text-shadow: 0 0 6px #fff,0 0 6px #fff;
+}
